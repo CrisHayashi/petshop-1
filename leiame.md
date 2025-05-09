@@ -24,7 +24,7 @@
 # para o primeiro commit, use o comando "git init"
 # verifique o email com o comando "git config --global user.email" < seu email
 # verifique o nome com o comando "git config --global user.name" < seu nome
-# adicione o projeto com o comando "git remote add origin https://github.com/usuario/repositorio.git" < repositório do projeto no github
+# adicione o projeto com o comando "git remote add origin https://github.com/CrisHayashi/PetWash.git" < repositório do projeto no github
 
 # para fazer commits, use o comando "git add nomeDoArquivo" ou "git add ." para adicionar todos os arquivos
 # para commitar o arquivo, use o comando "git commit -m "mensagem do commit""
